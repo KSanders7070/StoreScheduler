@@ -1,0 +1,30 @@
+Employee Name,Titles,Min Weekly Hours,Max Weekly Hours,Not Available,Cannot Work With,Prefer to Not Work With,Preferred Coworkers,Min # Hrs Between Shifts
+John Doe,Cashier,20,35,Mon 2 PM – 6 PM, Fri 6 PM – 12 AM,,Jane Smith,8
+Jane Smith,Cashier,20,35,Tue 6 AM – 12 PM,Bob Lee,John Doe,Alice Johnson,8
+Alice Johnson,Manager,30,40,Wed 12 PM – 6 PM,,Bob Lee,,8
+Bob Lee,Inventory,20,35,Thu 6 PM – 12 AM,Alice Johnson,,Jane Smith,8
+Mary Davis,Team Lead,30,40,Fri 6 AM – 12 PM,,Bob Lee,,8
+James Wilson,Cashier,15,25,Sun 6 PM – 12 AM,,Mary Davis,,8
+Laura Brown,Inventory,20,30,Sat 6 AM – 12 PM,John Doe,,Bob Lee,8
+David Harris,Manager,35,45,Mon 6 AM – 12 PM,,Mary Davis,,8
+Michael Green,Inventory,20,35,Sun 12 PM – 6 PM,Bob Lee,,James Wilson,8
+Sophia Turner,Cashier,20,35,Tue 2 PM – 6 PM,Alice Johnson,,David Harris,8
+Daniel Adams,Team Lead,30,40,Wed 6 AM – 12 PM,Bob Lee,,Sophia Turner,8
+Emily Clark,Inventory,20,35,Thu 12 PM – 6 PM,James Wilson,,Laura Brown,8
+Chris Lewis,Cashier,20,35,Fri 6 PM – 12 AM,Michael Green,,Emily Clark,8
+Olivia Martin,Manager,30,40,Sat 12 PM – 6 PM,Chris Lewis,,Daniel Adams,8
+Henry Thomas,Inventory,20,35,Sun 6 AM – 12 PM,,Sophia Turner,,8
+Sophia Walker,Cashier,15,25,Mon 12 PM – 6 PM,Henry Thomas,,Olivia Martin,8
+William King,Manager,35,45,Tue 6 PM – 12 AM,,Sophia Walker,,8
+Mia Scott,Team Lead,30,40,Wed 12 PM – 6 PM,William King,,Henry Thomas,8
+Joseph Young,Cashier,20,35,Thu 6 AM – 12 PM,Mia Scott,,William King,8
+Grace Hill,Inventory,20,35,Fri 12 PM – 6 PM,Joseph Young,,Sophia Walker,8
+Aiden Baker,Team Lead,30,40,Sat 6 PM – 12 AM,Grace Hill,,Mia Scott,8
+Isabella Harris,Cashier,20,35,Sun 12 PM – 6 PM,Aiden Baker,,Joseph Young,8
+Samuel Davis,Inventory,20,35,Mon 6 PM – 12 AM,Isabella Harris,,Grace Hill,8
+Harper Turner,Manager,30,40,Tue 12 PM – 6 PM,Samuel Davis,,Aiden Baker,8
+Charles Thompson,Team Lead,30,40,Wed 6 PM – 12 AM,Harper Turner,,Isabella Harris,8
+Evelyn Ward,Cashier,20,35,Thu 12 PM – 6 PM,Charles Thompson,,Samuel Davis,8
+Logan Clark,Inventory,20,35,Fri 6 AM – 12 PM,Evelyn Ward,,Harper Turner,8
+Lily Baker,Manager,30,40,Sat 6 AM – 12 PM,Logan Clark,,Charles Thompson,8
+Jack Wright,Team Lead,30,40,Sun 6 PM – 12 AM,Lily Baker,,Evelyn Ward,8
