@@ -33,7 +33,7 @@ The **Store.csv** file defines the store’s operational requirements and rules.
   - **Example**: `Sunday`
 
 - **Shifts Times**: Specifies the different shifts for each day.
-  - **Format**: `<integer between 1 and 12><space><AM or PM><space>–<space><integer between 1 and 12><space><AM or PM>`
+  - **Format**: `Time, space, AM or PM, space, dash, space time, space, AM or PM.`
   - **Example**: `6 AM – 12 PM`
 
 - **Employee Titles**: Lists the number of employees required for each title (e.g., Cashier, Manager) for each shift.
